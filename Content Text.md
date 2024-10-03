@@ -82,3 +82,19 @@ If there is anything I would change, it would just be adding sound to the animat
 If you would like to experience the prototype first hand, here’s a link to test it out. 
 
 [Squabble Prototype](https://www.figma.com/proto/vqvx5MyAZInZwAtsKgXSVB/Final-Thing-AHHHHHH?page-id=0%3A1&node-id=34-191&node-type=frame&viewport=1315%2C423%2C0.13&t=loHw7H08H2K8Q3r3-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=34%3A191)
+
+# “Resume” Page
+- No text; will be embed of resume and download link
+
+# “About me” Page
+
+## About me
+Hello! My name is Ashley Nguyen and I am a student at Drexel University studying User Experience and Interface Design. Currently, I am focusing on learning more about UX/UI to hopefully create something that will help others navigate this technologically driven world. 
+Want to know more about me? Most people describe me as creative and my interests certainly reflect that. From painting to writing, I love making things and expressing myself. In my free time, I love playing video games, listening to music, and viewing other people’s works. Other people are truly an inspiration for my work.
+
+## Contact me
+an943@drexel.edu 
+
+215-341-2560
+
+[LinkedIn](https://www.linkedin.com/in/ashleysworks/)
