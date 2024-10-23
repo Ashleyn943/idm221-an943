@@ -74,11 +74,13 @@ During this stage, I also started to come up with possible names, fonts, and col
 ## Iterations 
 My first prototype was created with visibility and usability in mind. I made text and buttons large so most users could read and tap them. I enlarged the buttons as they do exist on Discord but they are barely noticeable. I also simplified how the voice chat worked. I placed all the major buttons on the voice chat screen to make it easier to control. In addition, I added a visual element that shows everyone inside the voice chat if a person has all voices muted. This is the egg overlay that sits over a person’s profile picture.  
 
+Afterwards, I made sketches of what I wanted animated on the screen. These were to help give me a better idea of what could be done with my skillset. They ranged from simple animations, such as buttons jiggling to indicate that they have been pressed and screens sliding in, to the aforementioned egg animations. I initially did rough sketches of the main animations before using a prototype to outline all the animations I needed.
+
 ## Final Prototype 
 In the final iteration, I shrunk down the buttons to be a more reasonable size. This way, the user could focus on the most important buttons before seeing the other features on screen. 
 
 ## What I would do differently
-If there is anything I would change, it would just be adding sound to the animations. The final prototype does work to show the functions of the app but I think adding some sound effects would enhance the experience. 
+If there is anything I would change, it would just be adding sound to the animations. The final prototype does work to show the functions of the app but I think adding some sound effects would enhance the experience. I would have also liked to tidy up a few buttons, such as some of the switches as they were a little buggy.
 
 ### End Text 
 If you would like to experience the prototype first hand, here’s a link to test it out. 
