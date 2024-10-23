@@ -63,6 +63,8 @@ I would take more time making the design cleaner. While it is a prototype, I thi
 ## Overview 
 For a mobile interface design class, I was tasked to design an app based on another app while making improvements to its features. I chose to create a voice chat app based on the app Discord. 
 
+## Research
+Before designing any screens, I looked at how Discord's voice chat worked. Using Figma, I drew lines and made notes on how all the screens are connected. While doing so, I picked out the fetures I wanted to add in my app to improve on it.
 
 ## Rough Sketches + Branding
 I started by sketching possible screens for my mobile app. I tried to focus on aspects of Discord that I would want to add, such as the ability to see who is speaking on other screens and an easier way to see if someone is muted or deafened. Half of my sketches were based on one of the brand ideas I had, which after some peer review, I went with. 
