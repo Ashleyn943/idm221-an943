@@ -1,17 +1,16 @@
+@font-face {
+    font-family: 'Freeman';
+    src: url(../fonts/Freeman-Regular.ttf) format('truetype'),
+    url(../fonts/Freeman-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'AlegreyaSansRegular';
+    src: url(../fonts/AlegreyaSans-Regular.ttf) format('truetype'),
+    url(../fonts/AlegreyaSans-Regular.woff2) format('woff2');
+}
 
 :root{
-
-    @font-face {
-        font-family: 'Freeman';
-        src: url(../fonts/Freeman-Regular.ttf) format('truetype'),
-        url(../fonts/Freeman-Regular.woff2) format('woff2');
-    }
-    
-    @font-face {
-        font-family: 'AlegreyaSansRegular';
-        src: url(../fonts/AlegreyaSans-Regular.ttf) format('truetype'),
-        url(../fonts/AlegreyaSans-Regular.woff2) format('woff2');
-    }
     
 --pink-100:#FFF0F3;
 --pink-200:#FFCCD5;
@@ -32,4 +31,8 @@
 body{
     background-color:var(--background);
     color:var(--foreground);
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Freeman', Arial, Helvetica, sans-serif;
 }
