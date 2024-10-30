@@ -1,14 +1,35 @@
 
---pink-100:#FFCCD5
---pink-200:#FF8FA3
---pink-300:#FF4D6D
---pink-400:#590D22
---pink-500:#2D0510
+:root{
 
---white-blue:#FFF0F3
---white-yellow:#FFF9EC
+    @font-face {
+        font-family: 'Freeman';
+        src: url(../fonts/Freeman-Regular.ttf) format('truetype'),
+        url(../fonts/Freeman-Regular.woff2) format('woff2');
+    }
+    
+    @font-face {
+        font-family: 'AlegreyaSansRegular';
+        src: url(../fonts/AlegreyaSans-Regular.ttf) format('truetype'),
+        url(../fonts/AlegreyaSans-Regular.woff2) format('woff2');
+    }
+    
+--pink-100:#FFF0F3;
+--pink-200:#FFCCD5;
+--pink-300:#FF8FA3;
+--pink-400:#FF4D6D;
+--pink-500:#590D22;
+--pink-600:#2D0510;
 
---green-blue:#115745
+--white-yellow:#FFF9EC;
 
---background:--white-yellow 
---foreground:--pink-500
+--green-blue:#115745;
+
+--background:var(--white-yellow); 
+--foreground:var(--pink-600);
+
+}
+
+body{
+    background-color:var(--background);
+    color:var(--foreground);
+}
