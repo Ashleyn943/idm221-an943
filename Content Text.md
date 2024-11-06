@@ -121,7 +121,7 @@ Philadelphia, PA
 November 2023 to December 2023 
 - Worked in team of 4 to propose app oneducating people about proper recycling technique 
 - Designed, with the assistance of the team, prototypes for the app to provide direction for designing and creating the final app 
-- Createdwireflow mockuptodemonstrate the functions of the app during presentation, getting the app a high appraisal value from potential clients
+- Created wireflow mock-up to demonstrate the functions of the app during presentation, getting the app a high appraisal value from potential clients
 
 Squabble: App Wireframe
 Project Lead App Designer 
@@ -130,7 +130,7 @@ Philadelphia, PA
 March 2024 to June 2024 
 - Researched aspects of voice chat apps to create an app with appropriate features as well as improvements 
 - Sketched and designed prototypes to be reviewed by the client before creating the final wireframe for presentation 
-- Animatedwireframe to give an appropriate mock-up of how the app would function 
+- Animated wireframe to give an appropriate mock-up of how the app would function 
 - Presented final wireframe, earning high approval from the client
 
 ### Skills 
