@@ -88,7 +88,59 @@ If you would like to experience the prototype first hand, here’s a link to tes
 [Squabble Prototype](https://www.figma.com/proto/vqvx5MyAZInZwAtsKgXSVB/Final-Thing-AHHHHHH?page-id=0%3A1&node-id=34-191&node-type=frame&viewport=1315%2C423%2C0.13&t=loHw7H08H2K8Q3r3-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=34%3A191)
 
 # “Resume” Page
-- No text; will be embed of resume and download link
+
+## Ashley Nguyen
+
+### Contact 
+215-341-2560
+an943@drexel.edu
+
+### Education
+Drexel University 
+Bachelor of Science in User Experience & Interaction Design
+3.89
+<!--> Below push to right side of page in line with uni name + degree respectively<-->
+Philadelphia, PA
+June 2028
+
+### Experience 
+Little Flower High School 
+Graphic Designer 
+<!--> Below push to right side of page in line with client + role respectively<-->
+Philadelphia, PA 
+March 2023 to May 2023 
+
+- Worked with client to select design for tickets and decided on theming 
+- Used Adobe Illustrator to design tickets based on client’s needs, which got approval from client
+- Formatted documents for client to outsource printing job, satisfying client's request
+
+Eco Points: Product Design 
+Project Lead App Designer 
+<!--> Below push to right side of page in line with client + role respectively<-->
+Philadelphia, PA 
+November 2023 to December 2023 
+- Worked in team of 4 to propose app oneducating people about proper recycling technique 
+- Designed, with the assistance of the team, prototypes for the app to provide direction for designing and creating the final app 
+- Createdwireflow mockuptodemonstrate the functions of the app during presentation, getting the app a high appraisal value from potential clients
+
+Squabble: App Wireframe
+Project Lead App Designer 
+<!--> Below push to right side of page in line with client + role respectively<-->
+Philadelphia, PA 
+March 2024 to June 2024 
+- Researched aspects of voice chat apps to create an app with appropriate features as well as improvements 
+- Sketched and designed prototypes to be reviewed by the client before creating the final wireframe for presentation 
+- Animatedwireframe to give an appropriate mock-up of how the app would function 
+- Presented final wireframe, earning high approval from the client
+
+### Skills 
+UX/UI Design: Wireframing, Prototyping, Usability Testing, Surveying
+Artistry: Storyboarding, Sketching, Digital Designing
+Code: HTML, CSS
+Programs: Adobe Products (Photoshop, Illustrator, Bridge), Figma, Miro, Canva, GitHub, Visual Studio Code
+
+### Relevant Classwork
+Design I for Media, Design II for Media, User Interface Design I, User Interface Design II, Interaction Design, WebDesign I, Introduction to Human- Computer Interaction, Design Thinking in Product Design
 
 # “About me” Page
 
