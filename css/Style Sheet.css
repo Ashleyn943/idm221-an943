@@ -28,6 +28,11 @@
 
 }
 
+html{
+    margin: .25em;
+    box-sizing: border-box;
+}
+
 body{
     background-color:var(--background);
     color:var(--foreground);
@@ -39,4 +44,10 @@ h1, h2, h3, h4, h5, h6{
 
 p{
     font-family: 'AlegreyaSansRegular', Arial, Helvetica, sans-serif;
+}
+
+.responsive{
+    width:100%;
+    height: auto;
+    max-width: ;
 }
