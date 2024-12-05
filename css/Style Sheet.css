@@ -37,41 +37,51 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Freeman', Arial, Helvetica, sans-serif;
     letter-spacing: auto;
 }
+
+    .titles, h3, article>h4, h5{
+        text-align: center;
+    }
     h1{
         font-size: 3.5rem;
         line-height: .5rem;
+        margin: 4rem auto auto;
     }
-
-.casestudy{
-        font-size: 2.5rem;
-        line-height: 3rem;
-        text-align: center;
-    }
-
+        .casestudy{
+                font-size: 2.5rem;
+                line-height: 3rem;
+                text-align: center;
+            }
     h2{
         font-size: 2rem;
     }
-        .titles, h3, article>h4, h5{
-            text-align: center;
-        }
+            .titles{
+                font-size:3rem;
+                margin: auto auto .5rem;
+            }
         .logo{
             display:flex;
+            left: .5rem;
+            position: relative;
             text-align: left;
         }
 
-        .logo p{ 
-            font-size: 1.4rem;
-            left: .5rem;
-            position: relative;
-        }
-
         .menu{
-            top: 0rem;
-            right: 0rem;
-            position: sticky;
+            right: .5rem;
+            position: absolute;
+            top: 1.25rem;
+        }
+        .navi{
+            font-size: 2.5rem;
+            margin: auto;
+            text-decoration: underline;
+        }
+    /*h3*/
+        .subtitle{
+            font-size: 1.75rem;
+            margin: auto auto .5rem;
         }
     h4{
-        font-size: 2rem;
+        font-size: 1.65rem;
         margin: 3rem auto 1.5rem;
     }
     h5{
@@ -79,25 +89,73 @@ h1, h2, h3, h4, h5, h6{
         line-height: 0rem;
         margin-top: 1.5rem;
     }
+        #link{
+            margin-bottom: 1.5rem;
+            margin-top: 3rem;
+        }
+    
 
 html{
-    margin: .25em;
     box-sizing: border-box;
 }
 
-p{
+p, ul{
     font-family: 'AlegreyaSansRegular', Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    margin: auto auto 1rem;
 }
+    #contact{
+        list-style-type: none;
+        text-indent: 0rem;
+    }
+    .experience{
+        margin-top: 2rem
+    }
+    .heading{
+        font-size: 1.4rem;
+        left: 3.6rem;
+        top: 2.1rem;
+        margin: auto;
+        position: absolute;
+    }
 
 .responsive{
-    width:100%;
+    display:block;
     height: auto;
     margin: auto;
+    width:100%;
 }
+
+    #selfie{
+        border: 0.3125rem solid var(--pink-600);
+        border-radius: 50%;
+        height: 15.625rem;
+        width: 15.625rem;
+    }
+    figcaption{
+        font-family: 'AlegreyaSansRegular', Arial, Helvetica, sans-serif;
+        font-size: 1rem;
+        margin-bottom: .5rem;
+        text-align: center;
+    }
 
 button{
     background-color: var(--pink-400);
     color: var(--background);
+    font-size: 1.25rem;
+    height:4.6875rem;
     margin: auto;
-    padding: auto;
+    width:10.9375rem;
+}
+    div{
+        display: flex;
+    }
+
+footer{
+    background-color: var(--pink-300);
+    height: auto;
+    margin: 1.5rem 0rem 0rem;
+    padding: .5rem;
+    text-indent: 1rem;
+    width:auto;
 }
