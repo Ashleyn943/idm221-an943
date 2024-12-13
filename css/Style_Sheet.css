@@ -86,6 +86,9 @@ h1, h2, h3, h4, h5, h6{
             display:flex;
             text-align: left;
         }
+        .resume{
+            font-size: 1.75rem;
+        }
         .subtitle{
             font-family: 'AlegreyaSansRegular', Arial, Helvetica, sans-serif;
             font-size: 1.75rem;
@@ -150,6 +153,7 @@ button{
     background-color: var(--pink-400);
     border-radius: 30%;
     color: var(--background);
+    font-family: 'Freeman', Arial, Helvetica, sans-serif;
     font-size: 1.25rem;
     margin: auto;
     width:10.9375rem;
@@ -158,6 +162,7 @@ button{
         background-color: var(--pink-300);
         border-radius: 0rem;
         color: var(--foreground);
+        font-size: 3rem;
         text-align: left;
         width: 24rem;
     }
