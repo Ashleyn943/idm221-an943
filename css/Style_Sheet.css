@@ -70,12 +70,6 @@ h1, h2, h3, h4, h5, h6{
                 font-size:3rem;
                 margin: auto auto .5rem;
             }
-        .logo{
-            display:flex;
-            left: .5rem;
-            position: relative;
-            text-align: left;
-        }
 
         .menu{
             right: .5rem;
@@ -88,6 +82,12 @@ h1, h2, h3, h4, h5, h6{
             text-decoration: underline;
         }
     /*h3*/
+        .logo{
+            display:flex;
+            left: .5rem;
+            position: relative;
+            text-align: left;
+        }
         .subtitle{
             font-family: 'AlegreyaSansRegular', Arial, Helvetica, sans-serif;
             font-size: 1.75rem;
