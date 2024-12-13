@@ -127,6 +127,12 @@ p, ul{
         margin: auto;
         position: absolute;
     }
+    .other{
+        border-bottom: .1rem solid var(--foreground);
+        font-size: 1.3rem;
+        margin: auto auto 2rem;
+        text-align: center;
+    }
 
 .responsive{
     display:block;
